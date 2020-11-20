@@ -1,0 +1,22 @@
+{
+  "name": "lrucache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evantk91/LRUCache.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evantk91/LRUCache/issues"
+  },
+  "homepage": "https://github.com/evantk91/LRUCache#readme",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
